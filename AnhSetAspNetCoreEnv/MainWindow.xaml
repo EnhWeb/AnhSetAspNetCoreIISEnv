@@ -21,7 +21,7 @@
                 </RadialGradientBrush>
             </Button.Background>
         </Button>
-        <Button Content="system.webServer/aspNetCore:ASPNETCORE_ENVIRONMENT=Development" Margin="33,21,30,0" VerticalAlignment="Top" Click="Button_Click" FontSize="14" FontFamily="Comic Sans MS" Foreground="White">
+        <Button Content="system.webServer/aspNetCore:ASPNETCORE_ENVIRONMENT=Development" Margin="33,21,30,0" VerticalAlignment="Top" Click="Button_Click" FontSize="14" FontFamily="Comic Sans MS" Foreground="White" UseLayoutRounding="False">
             <Button.Background>
                 <RadialGradientBrush>
                     <GradientStop Color="Black" Offset="1"/>
