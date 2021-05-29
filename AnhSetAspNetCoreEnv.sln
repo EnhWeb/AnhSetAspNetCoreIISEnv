@@ -1,0 +1,30 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio Version 16
+VisualStudioVersion = 16.0.31321.278
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "AnhSetAspNetCoreEnv", "AnhSetAspNetCoreEnv\AnhSetAspNetCoreEnv.csproj", "{AB2D4921-72FA-4461-9EA0-2A96DAF335E1}"
+EndProject
+Project("{2150E333-8FDC-42A3-9474-1A3956D46DE8}") = "Solution Items", "Solution Items", "{51F5D724-D89B-4489-AE0D-D844896679D4}"
+	ProjectSection(SolutionItems) = preProject
+		.editorconfig = .editorconfig
+	EndProjectSection
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{AB2D4921-72FA-4461-9EA0-2A96DAF335E1}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{AB2D4921-72FA-4461-9EA0-2A96DAF335E1}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{AB2D4921-72FA-4461-9EA0-2A96DAF335E1}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{AB2D4921-72FA-4461-9EA0-2A96DAF335E1}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+	GlobalSection(ExtensibilityGlobals) = postSolution
+		SolutionGuid = {D0768E4C-D978-423B-87F3-70A68E0E03FE}
+	EndGlobalSection
+EndGlobal
